@@ -1,0 +1,17 @@
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\net6.0-windows\CarpetCalculatorApp.exe
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\net6.0-windows\CarpetCalculatorApp.deps.json
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\net6.0-windows\CarpetCalculatorApp.runtimeconfig.json
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\net6.0-windows\CarpetCalculatorApp.dll
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\net6.0-windows\CarpetCalculatorApp.pdb
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net6.0-windows\CarpetCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net6.0-windows\CarpetCalculatorApp.Form1.resources
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net6.0-windows\CarpetCalculatorApp.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net6.0-windows\CarpetCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net6.0-windows\CarpetCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net6.0-windows\CarpetCalculatorApp.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net6.0-windows\CarpetCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net6.0-windows\CarpetCalculatorApp.dll
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net6.0-windows\refint\CarpetCalculatorApp.dll
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net6.0-windows\CarpetCalculatorApp.pdb
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net6.0-windows\CarpetCalculatorApp.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net6.0-windows\ref\CarpetCalculatorApp.dll
